@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { useLanguage } from '@/contexts/LanguageContext';
-import heroImage from '@/assets/hero-sauna.jpg';
+import heroImage from '@/assets/exterior-2.jpg';
 
 export const HeroSection = () => {
   const { t } = useLanguage();
