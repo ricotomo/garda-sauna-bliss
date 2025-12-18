@@ -7,6 +7,7 @@ import exterior2 from '@/assets/exterior-2.jpg';
 import interior1 from '@/assets/interior-1.jpg';
 import interior2 from '@/assets/interior-2.jpg';
 import interior3 from '@/assets/interior-3.jpg';
+import interior4 from '@/assets/interior-4.jpg';
 
 type GalleryTab = 'exterior' | 'interior';
 
@@ -19,6 +20,7 @@ const images = {
     { src: interior1, alt: 'Sauna interior with lake view' },
     { src: interior2, alt: 'Sauna accessories and details' },
     { src: interior3, alt: 'Sauna view of mountains and lake' },
+    { src: interior4, alt: 'Evening sauna with candlelight and lake view' },
   ],
 };
 
